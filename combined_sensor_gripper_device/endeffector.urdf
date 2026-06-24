@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot name="OnRobotHEXE_Robotiq2F85">
+  <link name="onrobot_hexe_robotiq2f85">
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/onrobot_hexe_v2_ft_sensor.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/robotiq_base.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/ur_to_robotiq_adapter.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/left_knuckle.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/right_knuckle.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/left_inner_knuckle.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/right_inner_knuckle.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/left_finger.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/right_finger.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/left_finger_tip.dae"/>
+      </geometry>
+    </visual>
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/2f_85/right_finger_tip.dae"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>

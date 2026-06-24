@@ -1,0 +1,40 @@
+{
+    "id": "onrobot_hexe_robotiq_2f85",
+    "name": "OnRobot HEX/e + Robotiq 2F85",
+    "color": "#FF6B35",
+    "mass": 1.179,
+    "centerOfMass": [
+        0,
+        0,
+        0.048
+    ],
+    "transformation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0.195,
+        1
+    ],
+    "inertia": [
+        0.0031747,
+        0,
+        0,
+        0,
+        0.0035557,
+        0,
+        0,
+        0,
+        0.000735
+    ]
+}

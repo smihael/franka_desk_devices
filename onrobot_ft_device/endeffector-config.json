@@ -1,0 +1,40 @@
+{
+    "id": "onrobot_ft_sensor",
+    "name": "OnRobot HEX/e V2 FT Sensor",
+    "color": "#FF6B35",
+    "mass": 0.245,
+    "centerOfMass": [
+        0,
+        0,
+        0.01875
+    ],
+    "transformation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0.0375,
+        1
+    ],
+    "inertia": [
+        0.000329,
+        0,
+        0,
+        0,
+        0.000329,
+        0,
+        0,
+        0,
+        0.000600
+    ]
+}

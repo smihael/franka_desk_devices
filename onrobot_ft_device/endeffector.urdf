@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot name="OnRobotFTSensor">
+  <link name="onrobot_ft_sensor">
+    <visual>
+      <geometry>
+        <mesh filename="package://franka_description/meshes/visual/onrobot_hexe_v2_ft_sensor.dae"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>
